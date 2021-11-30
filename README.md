@@ -19,6 +19,6 @@ The point of the game lies in the fact that you control both characters at the s
 ## Controls
 - ZQSD for the left character
 - Arrows for the right one
-<br><br>
+- R to reset<br><br><br>
 
 ### Hope you will enjoy these clunky games ! Download <a href="https://drive.google.com/drive/folders/1-BWC1fxzCfjIEEuqewh4eMB7C_CuSh-8?usp=sharing">here</a>.
